@@ -10,3 +10,6 @@
 [submodule "payments-ms"]
 	path = payments-ms
 	url = https://github.com/Alecto-Microservices-Products/payments-microservice.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/Alecto-Microservices-Products/auth-ms.git
